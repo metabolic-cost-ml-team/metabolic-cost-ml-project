@@ -4,7 +4,7 @@
 
 ### Team Members
 - Parinitha Acharya
-- [Team Member Name]
+- Ritesh Paruchuri
 
 ---
 
